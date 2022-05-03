@@ -405,3 +405,34 @@ footer::before {
   margin-top: 10.625rem;
   margin-bottom: 3.75rem;
 }
+
+@media (max-width: 600px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+
+  .intro {
+    grid-column: span 1;
+  }
+
+  .experiencia {
+    grid-column: span 1;
+  }
+
+  .formacao {
+    grid-column: span 1;
+  }
+
+  footer {
+    grid-column: span 1;
+  }
+
+  .max-width {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  header {
+    grid-column: span 1;
+  }
+}
