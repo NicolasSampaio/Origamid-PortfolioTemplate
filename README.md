@@ -15,12 +15,12 @@ This is a solution to this figma template [Figma Template](https://www.figma.com
 
 ### Screenshot
 
-![screencapture-nicolassampaio-github-io-FrontEndMentor-QR-Code-Component-2022-04-25-18_55_24](https://user-images.githubusercontent.com/42179041/165181677-3e14eedf-ea6f-4dd7-9dfb-93da826bf09c.png)
+![image](https://user-images.githubusercontent.com/42179041/166345449-d9e4d140-702d-4bbc-97d8-8e07d046f87f.png)
 
 ### Links
 
-- Solution URL: [GitHub Code](https://github.com/NicolasSampaio/FrontEndMentor-QR-Code-Component)
-- Live Site URL: [Live Site](https://nicolassampaio.github.io/FrontEndMentor-QR-Code-Component/)
+- Solution URL: [GitHub Code](https://github.com/NicolasSampaio/Origamid-PortfolioTemplate)
+- Live Site URL: [Live Site](https://nicolassampaio.github.io/Origamid-PortfolioTemplate/)
 
 ## My process
 
